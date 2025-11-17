@@ -18,7 +18,7 @@ This repository contains a Power BI dashboard that analyzes sales performance ov
 )
 
 ### Trends & Time Analysis  
-![Time Analysis](screenshots/Page3_TimeAnalysis.png)
+![Time Analysis]([screenshots/Page3_TimeAnalysis.png](https://github.com/Areejprog/PowerBI-SalesDashboard/blob/6adac8f22d7b35ec4a957b068e5217fcba30ad9d/Trend%20%26%20Time%20Analysis.png))
 
 ## 📊 Key Metrics & Insights
 
