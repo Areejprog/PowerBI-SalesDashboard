@@ -11,7 +11,7 @@ This repository contains a Power BI dashboard that analyzes sales performance ov
 ## 📸 Dashboard Preview
 
 ### Executive Summary  
-![Executive Summary]([screenshots/Page1_ExecutiveSummary.png](https://github.com/Areejprog/PowerBI-SalesDashboard/blob/1d793b3cf6400d24121bd6b94b013d3895a57ab9/overview.png))
+![overview.png](https://github.com/Areejprog/PowerBI-SalesDashboard/blob/1d793b3cf6400d24121bd6b94b013d3895a57ab9/overview.png) 
 
 ### Product & Category Insights  
 ![Product Insights](screenshots/Page2_ProductInsights.png)
