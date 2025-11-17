@@ -14,7 +14,7 @@ This repository contains a Power BI dashboard that analyzes sales performance ov
 ![overview.png](https://github.com/Areejprog/PowerBI-SalesDashboard/blob/1d793b3cf6400d24121bd6b94b013d3895a57ab9/overview.png) 
 
 ### Product & Category Insights  
-![Product Insights]([<img width="763" height="773" alt="image" src="https://github.com/user-attachments/assets/4ce8503b-5292-4797-ae70-3230254c4326" />](https://github.com/Areejprog/PowerBI-SalesDashboard/blob/c7aa26970d7f52b6acd54963d4c50368cd82a5c2/Product%20%26%20Customer%20Insights.png)
+!([<img width="763" height="773" alt="image" src="https://github.com/user-attachments/assets/4ce8503b-5292-4797-ae70-3230254c4326" />](https://github.com/Areejprog/PowerBI-SalesDashboard/blob/c7aa26970d7f52b6acd54963d4c50368cd82a5c2/Product%20%26%20Customer%20Insights.png)
 )
 
 ### Trends & Time Analysis  
