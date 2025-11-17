@@ -1,50 +1,44 @@
-# 📊 Sales Performance Dashboard – Power BI
+# Power BI Sales Dashboard
 
-This project analyzes sales performance for a fictional retail company using Power BI.  
-It provides insights into revenue, customer behavior, product categories, and monthly trends to support business decision-making.
+This repository contains a Power BI dashboard that analyzes sales performance over a year for a fictional retail company.
 
----
+## 📁 Files in this repository
+
+- Sales_Dashboard.pbix — Power BI report file  
+- Sales_Data.xlsx — Excel dataset used for analysis  
+- screenshots/ — Folder containing screenshots of the dashboard  
+
+## 📸 Dashboard Preview
+
+### Executive Summary  
+![Executive Summary](screenshots/Page1_ExecutiveSummary.png)
+
+### Product & Category Insights  
+![Product Insights](screenshots/Page2_ProductInsights.png)
+
+### Trends & Time Analysis  
+![Time Analysis](screenshots/Page3_TimeAnalysis.png)
+
+## 📊 Key Metrics & Insights
+
+- *Total Sales*: Total revenue generated calculated by summing quantities * unit price  
+- *Total Orders*: Count of distinct orders  
+- *Average Order Value*: Total Sales / Total Orders  
+- *Total Quantity Sold*: Sum of all quantities  
+- *Revenue by Category*: Distribution of sales across product categories  
+- *Top 5 Customers*: Customers who contributed the most revenue  
+- *Monthly Sales Trend*: Yearly trend of sales over months  
 
 ## 🔧 Tools & Technologies
-- *Power BI*
-- *Microsoft Excel* (for initial data cleaning)
-- *DAX Measures*
+
+- Power BI Desktop  
+- Microsoft Excel  
+- DAX for calculations  
+
+## 📈 How to Use
+
+1. Open Sales_Dashboard.pbix in Power BI Desktop  
+2. Load Sales_Data.xlsx as the data source  
+3. Use the visuals to explore sales by category, customer, and monthly trend  
 
 ---
-
-## 📈 Key Insights
-- Total sales and number of orders  
-- Sales trend over 12 months  
-- Top customers by revenue  
-- Best-selling product categories  
-- Average order value  
-
----
-
-## 📂 Project Files
-| File | Description |
-|------|-------------|
-| Sales_Dashboard.pbix | The full Power BI dashboard |
-| Sales_Data.xlsx | Dataset used for analysis |
-| /Screenshots/ | Folder containing visuals from the dashboard |
-
----
-
-## 📊 Dashboard Visuals
-- Overview KPIs  
-- Sales by Category  
-- Monthly Sales Trend  
-- Top 5 Customers  
-
-Screenshots are included in the *Screenshots* folder.
-
----
-
-## 📝 Summary
-This dashboard helps business teams track performance, identify patterns, and make data-driven decisions.  
-It shows how Power BI can transform raw sales data into clear and meaningful insights.
-
----
-
-## 📬 Contact
-If you would like to connect or know more, feel free to reach out through my LinkedIn profile.
